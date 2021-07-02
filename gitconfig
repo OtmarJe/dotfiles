@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = o.jenner@gmx.de
+	name = Otmar Jenner
